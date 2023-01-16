@@ -1,0 +1,44 @@
+[
+  {
+    id: 1,
+    company: "Remax",
+    in_use: false,
+    address: "None",
+    imgUrl: "https://images.unsplash.com/photo-1546430783-fe4b9c159e52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fHNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    id: 2,
+    company: "Remax",
+    in_use: true,
+    address: "100 Sparks St",
+    imgUrl: "https://images.unsplash.com/photo-1592111332908-f8f7fe1bb041?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    id: 3,
+    company: "Remax",
+    in_use: true,
+    address: "6 Queen Ave",
+    imgUrl: "https://images.unsplash.com/photo-1522100077728-4fae00f560c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    id: 4,
+    company: "Zillow",
+    in_use: true,
+    address: "172 King St",
+    imgUrl: "https://images.unsplash.com/photo-1533601017-dc61895e03c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    id: 5,
+    company: "Royal LePage",
+    in_use: true,
+    address: "1056 Richmond St",
+    imgUrl: "https://images.unsplash.com/photo-1557404838-0f7b750e3a04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fHNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    id: 6,
+    company: "Zillow",
+    in_use: true,
+    address: "55 Besserer St",
+    imgUrl: "https://images.unsplash.com/photo-1544176161-1f4656f1812f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60"
+  }
+]
